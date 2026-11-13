@@ -1,0 +1,5 @@
+export { SectionHeading } from "./SectionHeading"
+export { GradientCard, GlassCard } from "./GradientCard"
+export { MetricsCounter } from "./MetricsCounter"
+export { TeamCard } from "./TeamCard"
+export { AnimatedBackground } from "./AnimatedBackground"
